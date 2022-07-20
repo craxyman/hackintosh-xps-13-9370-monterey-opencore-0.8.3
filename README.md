@@ -21,9 +21,10 @@ Killer WiFi 1535 (internal wifi is soldered and will not work, currently using w
 Webcam
 
 
-what works
+<B>WHAT WORKS</B>
 
-4k with touchscreen
+4k with touchscreen (for FHD laptops, will need to replace AAPL,ig-platform-id and device-id most likely)
+
 
 igpu
 
@@ -43,10 +44,12 @@ imessages
 
 sleep
 
+almost everything
 
 
 
-what doesn't work
+
+<B>WHAT DOESN'T WORK</B>
 
 internal wifi (using wifi dongle TP-LINK ARCHER T2U 11AC off Amazon)
 
