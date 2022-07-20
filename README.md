@@ -22,16 +22,33 @@ Webcam
 
 
 what works
+
 4k with touchscreen
+
+igpu
+
 touchpad
+
 thunderbolt ports
+
 usb c ports
+
 iservices (need to use rehabman nullethernetinjector.kext, replace mac with tp-link mac address)
+
 internal bluetooth
+
 webcam facetime
+
 imessages
+
 sleep
 
+
+
+
 what doesn't work
+
 internal wifi (using wifi dongle TP-LINK ARCHER T2U 11AC off Amazon)
+
 AppleTV (needs DGPU for DRM)
+
